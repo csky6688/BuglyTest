@@ -52,7 +52,7 @@ install {
         pom {
             project {
                 packaging 'aar'
-                name 'Less Code For Android'                                   // #CONFIG# // project title
+                name 'Utils For Android'                                   // #CONFIG# // project title
                 url siteUrl
                 // Set your license
                 licenses {
@@ -107,7 +107,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "maven"
-        name = "lesscode"                                                 // #CONFIG# project name in jcenter
+        name = "utils"                                                 // #CONFIG# project name in jcenter
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]

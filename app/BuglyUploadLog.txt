@@ -4,3 +4,6 @@ E:\github\BuglyTest\app\build\intermediates\ndk\release\obj\local\x86\buglySymbo
 E:\github\BuglyTest\app\build\intermediates\ndk\release\obj\local\armeabi\buglySymbol_libhello-jni_armeabi-v5te-5d52e.zip --> 9265d06d137de43bc70230c6c60e0abb079651e7
 E:\github\BuglyTest\app\build\intermediates\ndk\release\obj\local\armeabi-v7a\buglySymbol_libhello-jni_armeabi-v7a-e3a8f.zip --> e9be9249193a8b5525604b7759a753d2ffc6a476
 E:\github\BuglyTest\app\build\intermediates\ndk\release\obj\local\x86\buglySymbol_libhello-jni_x86-02ed3.zip --> f176f987e8daff9e8c17e32167f78c40c525066f
+E:\github\BuglyTest\app\build\intermediates\ndk\release\obj\local\armeabi\buglySymbol_libhello-jni_armeabi-v5te-5d52e.zip --> f575f6c457a4b0c5944e44ab35e6016cbe42256e
+E:\github\BuglyTest\app\build\intermediates\ndk\release\obj\local\armeabi-v7a\buglySymbol_libhello-jni_armeabi-v7a-e3a8f.zip --> eef154036e24d375b7cfe51c42f09a0402c34b7b
+E:\github\BuglyTest\app\build\intermediates\ndk\release\obj\local\x86\buglySymbol_libhello-jni_x86-02ed3.zip --> 937837c3fd8c24b51e225446bc3fc3c27bffbd77
