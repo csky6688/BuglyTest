@@ -16,7 +16,7 @@
  */
 #include <string.h>
 #include <jni.h>
-#include "example_com_buglytest_MainActivity.h"
+#include "example_com_buglytest_MyActivity.h"
 
 /* This is a trivial JNI example where we use a native method
  * to return a new VM String. See the corresponding Java source
@@ -24,8 +24,8 @@
  *
  *   apps/samples/hello-jni/project/src/com/example/hellojni/HelloJni.java
  */
-JNIEXPORT jstring JNICALL Java_example_com_buglytest_MainActivity_stringFromJNI
+JNIEXPORT jstring JNICALL Java_example_com_buglytest_MyActivity_stringFromJNI
         (JNIEnv *env, jobject obj)
 {
-    return (*env)->NewStringUTF(env, "Hello from JNI !  Compiled with ABI.");
+    return (*env)->NewStringUTF(env, "Hello this is my utils");
 }

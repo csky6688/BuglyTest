@@ -2,8 +2,8 @@
 #include <jni.h>
 /* Header for class example_com_buglytest_MainActivity */
 
-#ifndef _Included_example_com_buglytest_MainActivity
-#define _Included_example_com_buglytest_MainActivity
+#ifndef _Included_example_com_buglytest_MyActivity
+#define _Included_example_com_buglytest_MyActivity
 #ifdef __cplusplus
 extern "C" {
 #endif
@@ -12,7 +12,7 @@ extern "C" {
  * Method:    stringFromJNI
  * Signature: ()Ljava/lang/String;
  */
-JNIEXPORT jstring JNICALL Java_example_com_buglytest_MainActivity_stringFromJNI
+JNIEXPORT jstring JNICALL Java_example_com_buglytest_MyActivity_stringFromJNI
   (JNIEnv *, jobject);
 
 #ifdef __cplusplus
